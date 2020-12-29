@@ -1,11 +1,5 @@
 # Evil Man - 天朝容黑之恶
 ## 简介
-![](https://img.shields.io/badge/%E5%A5%B3%E7%AB%A5-%E4%BF%9D%E6%8A%A4-blue)
-![](https://img.shields.io/badge/%E5%A4%BA%E5%91%BD-%E6%81%8B%E7%88%B1-red)
-![](https://img.shields.io/badge/%E9%AB%98%E6%A0%A1-%E6%80%A7%E4%BE%B5-orange)
-![](https://img.shields.io/badge/-%E6%80%A7%E9%AA%9A%E6%89%B0-lightgrey)
-![](https://img.shields.io/badge/%E5%A9%9A%E5%A5%B3-%E5%AE%B6%E6%9A%B4-blueviolet)
-![](https://img.shields.io/badge/%E7%BD%91%E7%BA%A6%E8%BD%A6-%E5%AE%89%E5%85%A8-brightgreen)<br>
 <br>收录TY嘲帖黑帖，记录被持续网暴经历，持续更新，欢迎邮件来稿<br>
 投稿格式：[标题]+(新闻链接)<br>
 
